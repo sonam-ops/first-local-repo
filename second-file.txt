@@ -1,1 +1,3 @@
 first line added
+this second file created in first-local repo
+3rd line added
